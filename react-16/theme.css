@@ -1,0 +1,40 @@
+body {
+  font-family: roboto, Arial, Helvetica;
+  background-color: #24292e;
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #6fe1fc;
+}
+
+.center {
+  text-align: center;
+}
+
+div, div, p {
+  color: #fff;
+}
+
+.container {
+  height: calc(100vh - 80px);
+  background-color: #fff;
+  color: #24292e;
+  padding: 20px;
+}
+
+.box {
+  padding:10px;
+  background-color: #fff;
+  color: #24292e;
+}
+
+.box.color-2 {
+  background-color: #ffe6e6;
+}
+
+.box.color-3 {
+  background-color: #eeffe6;
+}
