@@ -1,0 +1,12 @@
+{
+  "name": "react-16",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  },
+  scripts: {
+    "server": "yarn http-server template.html"
+  }
+}
